@@ -1,0 +1,22 @@
+{
+    "name": "simtabi/symlink",
+    "description": "Small utility class to help create symlinks",
+    "keywords": ["php", "symlink"],
+    "type": "package",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imani Manyara",
+            "email": "imani@simtabi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simtabi\\": "src/"
+        }
+    }
+}
