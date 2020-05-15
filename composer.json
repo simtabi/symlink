@@ -1,6 +1,6 @@
 {
     "name": "simtabi/symlink",
-    "description": "Small utility class to help create symlinks",
+    "description": "Small utility class to help you create symlinks",
     "keywords": ["php", "symlink"],
     "type": "package",
     "require": {
